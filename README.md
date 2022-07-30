@@ -227,3 +227,5 @@ Example:
 3. [What is Kubernetes?](https://cloudnative101.dev/concepts/kubernetes/)
 4. Kubernetes
    - [Concepts](https://kubernetes.io/docs/concepts/)
+
+Completed
